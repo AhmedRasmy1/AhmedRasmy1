@@ -61,7 +61,7 @@ Dependency Injection (get_it, injectable)
 ## 📄 Resume
 
 > 🧾 You can view or download my full CV here:  
-[Click to view/download](put-link-to-your-cv-here) *(PDF, Google Drive, etc.)*
+[Click to view/download](https://drive.google.com/file/d/1dYkA2F031_aG41ExZujDRNxJOEFR5Mb6/view?usp=drive_link) *(PDF, Google Drive, etc.)*
 
 ---
 
