@@ -28,6 +28,7 @@ Firebase | Clean Architecture | Design Patterns
 Git & GitHub | SOLID Principles
 Dependency Injection (get_it, injectable)
 
+
 ---
 
 ## 🎓 Courses & Certifications
@@ -44,7 +45,7 @@ Dependency Injection (get_it, injectable)
 
 ## 🌐 Languages
 
-- 🇪🇬 Arabic (Native)
+- 🇪🇬 Arabic (Native)  
 - 🇺🇸 English (Professional)
 
 ---
@@ -52,26 +53,26 @@ Dependency Injection (get_it, injectable)
 ## 📈 GitHub Stats
 
 <p align="center">
-  ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRasmy1&show_icons=true&theme=tokyonight)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrasmy&theme=tokyonight" alt="Ahmed's GitHub streak" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedRasmy1&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedRasmy1&theme=tokyonight" width="47%" />
 </p>
 
-  
+---
 
 ## 📄 Resume
 
 > 🧾 You can view or download my full CV here:  
-[Click to view/download](https://drive.google.com/file/d/1dYkA2F031_aG41ExZujDRNxJOEFR5Mb6/view?usp=drive_link) *(PDF, Google Drive, etc.)*
+[📎 Click to view/download](https://drive.google.com/file/d/1dYkA2F031_aG41ExZujDRNxJOEFR5Mb6/view?usp=drive_link)
 
 ---
 
 ## ☕ Let's Connect
 
-- 💬 [LinkedIn](https://www.linkedin.com/in/ahmed-rasmy-340680236/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-rasmy-340680236/)
 - 📧 **ahmedhishamrasmy1@gmail.com**
 
 ---
 
-⭐ *Thank you for visiting my profile. If you like my work, feel free to follow me or star some of my repositories!*  
+⭐ *Thank you for visiting my profile. If you like my work, feel free to follow me or star some of my repositories!*
 
 
