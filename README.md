@@ -1,38 +1,77 @@
 <h1 align="center">Hi 👋, I'm Ahmed Rasmy</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">A passionate and dedicated Flutter Developer from Egypt</h3>
 
-- 🔭 I’m currently working on **[Project Name or "Flutter mobile apps"]**
-- 🌱 I’m currently learning **Clean Architecture & Testing**
-- 👯 I’m looking to collaborate on **Open Source Flutter Projects**
-- 💬 Ask me about **Flutter, Bloc, Dio, Firebase**
-- 📫 How to reach me: **your.email@example.com**
-- 📄 Know about my experiences: [My CV](link-to-cv-if-available)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bloc-3982E4?style=for-the-badge&logo=flutter&logoColor=white" />
+<p align="center">
+  <a href="mailto:ahmedhishamrasmy1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmed-rasmy-340680236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ahmedrasmy"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedrasmy&show_icons=true&theme=tokyonight" width="47%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrasmy&theme=tokyonight" width="47%" />
+- 🔭 I'm currently diving deeper into **Flutter** to master advanced concepts and architecture patterns.
+- 🎯 Focused on **Clean Architecture**, **Testing**, and writing scalable, maintainable code.
+- 💬 Ask me about anything related to **Flutter**, **State Management**, or **API Integration**.
+- 📧 Reach me at: **ahmedhishamrasmy1@gmail.com**
+
+---
+
+## 🛠️ Skills
+Dart | Flutter | State Management (Bloc, Cubit)
+API integration (http, Dio, Retrofit)
+UI/UX Design | Responsive Design
+Local Storage (Shared Preferences, Hive)
+Unit & Widget Testing
+Firebase | Clean Architecture | Design Patterns
+Git & GitHub | SOLID Principles
+Dependency Injection (get_it, injectable)
+
+---
+
+## 🎓 Courses & Certifications
+
+- UI/UX (Front-end) Developer Track — ITI Tech-Leaps *(Online)*
+- Flutter Advanced Bootcamp — Elevate Tech *(Online)*
+- The Complete Dart Learning Guide — Udemy *(Online)*
+- Advanced Flutter Pattern (MVVM and Bloc) — Udemy *(Online)*
+- Deep Dive into Clean Architecture in Flutter — Udemy *(Online)*
+- Flutter & Dart Complete Development Course — Udemy *(Online)*
+- Mastering Flutter: Responsive & Adaptive UI Design — Udemy *(Online)*
+
+---
+
+## 🌐 Languages
+
+- 🇪🇬 Arabic (Native)
+- 🇺🇸 English (Professional)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrasmy&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrasmy&theme=tokyonight" alt="Ahmed's GitHub streak" width="47%"/>
 </p>
 
 ---
 
-## 📫 تواصل معايا:
+## 📄 Resume
 
-- 📧 **your.email@example.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-username)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
+> 🧾 You can view or download my full CV here:  
+[Click to view/download](put-link-to-your-cv-here) *(PDF, Google Drive, etc.)*
 
 ---
 
-⭐ لو عجبك شغلي، متنساش تعمللي ⭐ على أي مشروع بيعجبك ✨
+## ☕ Let's Connect
+
+- 💬 [LinkedIn](https://www.linkedin.com/in/ahmed-rasmy-340680236/)
+- 📧 **ahmedhishamrasmy1@gmail.com**
+
+---
+
+⭐ *Thank you for visiting my profile. If you like my work, feel free to follow me or star some of my repositories!*  
+
+
