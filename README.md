@@ -57,6 +57,11 @@ Dependency Injection (get_it, injectable)
 </p>
 
 ---
+*Total Stars Earned:**  
+  ![GitHub stars](https://img.shields.io/github/stars/AhmedRasmy1?style=social)
+
+- **GitHub Stats:**  
+  ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRasmy1&show_icons=true&theme=tokyonight)
 
 ## 📄 Resume
 
