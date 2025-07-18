@@ -52,16 +52,11 @@ Dependency Injection (get_it, injectable)
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrasmy&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" width="47%"/>
+  ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRasmy1&show_icons=true&theme=tokyonight)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrasmy&theme=tokyonight" alt="Ahmed's GitHub streak" width="47%"/>
 </p>
 
----
-*Total Stars Earned:**  
-  ![GitHub stars](https://img.shields.io/github/stars/AhmedRasmy1?style=social)
-
-- **GitHub Stats:**  
-  ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRasmy1&show_icons=true&theme=tokyonight)
+  
 
 ## 📄 Resume
 
