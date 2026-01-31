@@ -119,21 +119,6 @@
   <a href="https://www.linkedin.com/in/ahmed-rasmy-340680236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/AhmedRasmy1/AhmedRasmy1/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=1200&color=00F2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+from+Egypt;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps" 
-    alt="Typing SVG" 
-  />
-</div>
-
 <br/>
 
 <!-- BADGES -->
@@ -189,32 +174,6 @@ Strong focus on <b>Clean Architecture</b>, performance, and real-world productio
 
 ---
 
-<!-- STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AhmedRasmy1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRasmy1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f2ff&text_color=ffffff" 
-    width="48%" 
-  />
-</div>
-
----
-
-<!-- GIF -->
-<div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
-    width="90%" 
-    style="border-radius: 12px;" 
-  />
-</div>
-
----
 
 <!-- ACHIEVEMENTS -->
 <h2 align="center">🏆 Achievements</h2>
