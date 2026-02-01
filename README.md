@@ -98,7 +98,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedRasmy1&show_icons=true&theme=tokyonight" height="180"/>
